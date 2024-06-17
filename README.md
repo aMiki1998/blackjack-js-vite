@@ -1,3 +1,3 @@
 # Blackjack Vite
 
-Proyecto de Blackjack
+Proyecto de Blackjack hecho en Javascript
